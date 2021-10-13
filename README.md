@@ -21,7 +21,6 @@ Related papers and codes
 * Zhao et al, Detection Method Based on Automatic Visual Shape Clustering for Pin-Missing Defect in Transmission Lines. [[paper](https://arxiv.org/ftp/arxiv/papers/2001/2001.06236.pdf)]
 
 ### 2019
-* Zhi et al, FCOS: Fully Convolutional One-Stage Object Detection.注：无锚框自然图像 [[paper](https://arxiv.org/pdf/1904.01355.pdf)][[code](https://github.com/tianzhi0549/FCOS/)]
 
 
 ### 2018
