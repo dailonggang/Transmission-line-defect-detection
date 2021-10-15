@@ -16,6 +16,7 @@ Related papers and codes
 --------------
 ### 2021
 * Zhai et al, Hybrid Knowledge R-CNN for Transmission Line Multifitting Detection. [[paper](https://ieeexplore-ieee-org.ezproxy.lib.szu.edu.cn/stamp/stamp.jsp?tp=&arnumber=9481328)]
+* Marco Rudolph et al, Fully Convolutional Cross-Scale-Flows for Image-based Defect Detection. [[paper](https://arxiv.org/pdf/2110.02855.pdf)][[code](https://github.com/marco-rudolph/cs-flow)]
 
 ### 2020
 * Zhao et al, Detection Method Based on Automatic Visual Shape Clustering for Pin-Missing Defect in Transmission Lines. [[paper](https://arxiv.org/ftp/arxiv/papers/2001/2001.06236.pdf)]
